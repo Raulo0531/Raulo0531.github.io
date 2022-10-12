@@ -57,8 +57,8 @@ div.top {
 #userName2 {
 	color: white;
 	font-size: 1rem;
-	font-weight: 400;
-	line-height: 1.25;
+	font-weight: 200;
+	line-height: 1;
 	display: block;
 	font-family: var(--font);
 	width: 50%;
