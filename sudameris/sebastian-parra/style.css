@@ -53,6 +53,19 @@ div.top {
 	text-decoration: none;
 }
 
+
+#userName2 {
+	color: white;
+	font-size: 1.5rem;
+	font-weight: 500;
+	line-height: 1.25;
+	display: block;
+	font-family: var(--font);
+	width: 100%;
+	text-align: center;
+	text-decoration: none;
+}
+
 #links {
 	 max-width: 675px;
     width: 100%;
@@ -77,7 +90,7 @@ div.top {
 	font-family: var(--font);
 	text-align: center;
 	margin-bottom: 20px;
-	
+
 	padding: 17px;
 	text-decoration: none;
 	font-size: 2rem;
