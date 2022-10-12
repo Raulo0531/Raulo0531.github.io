@@ -60,13 +60,13 @@ div.top {
 	 max-width: 675px;
     width: 100%;
     display: block;
-    margin:  27 auto;
+    margin: auto;
 }
 
 @media only screen and (max-width: 700px) {
 	#links {
-		margin-left: 3%;
-		margin-right: 3%;
+		margin-left: 10%;
+		margin-right: 10%;
 	}
 	.night_mode {
 		margin-right: 40%;
