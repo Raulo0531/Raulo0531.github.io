@@ -7,6 +7,10 @@
     --font: 'Roboto', sans-serif;
 }
 
+div.top {
+    background-color: #808080;
+    margin: 0;
+}
 
 .image-cropper {
     max-width: 100px;
