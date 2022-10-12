@@ -65,8 +65,8 @@ div.top {
 
 @media only screen and (max-width: 700px) {
 	#links {
-		margin-left: 10%;
-		margin-right: 10%;
+		margin-left: 0%;
+		margin-right: 0%;
 	}
 	.night_mode {
 		margin-right: 40%;
