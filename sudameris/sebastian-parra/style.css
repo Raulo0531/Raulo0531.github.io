@@ -57,8 +57,8 @@ div.top {
 
 
 #links {
-	 max-width: 675px;
-    width: 100%;
+	max-width: 675px;
+    width: 80%;
     display: block;
     margin: auto;
 }
