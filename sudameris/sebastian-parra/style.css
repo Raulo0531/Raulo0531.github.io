@@ -58,7 +58,7 @@ div.top {
 	color: white;
 	font-size: 1rem;
 	font-weight: 200;
-	line-height: 1;
+	line-height: 1.25;
 	display: block;
 	font-family: var(--font);
 	width: 50%;
