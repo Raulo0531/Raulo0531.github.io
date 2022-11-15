@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<a href="data:text/plain;charset=UTF-8,<?php echo raf_create_vcard(); ?>" download="contact.vcf">Download</a>
+
+
 <?php
 function raf_create_vcard(){
 $format_name = utf8_encode($name);
@@ -15,6 +16,7 @@ return 'BEGIN%3AVCARD%0D%0AVERSION%3A4.0%0D%0AN%3A%3B'.$format_name.'%3B%3B%3B%0
 }
 ?>
 
+<a href="data:text/plain;charset=UTF-8,<?php echo raf_create_vcard(); ?>" download="contact.vcf">Download</a>
 
 </body>
 </html>
