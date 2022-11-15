@@ -16,7 +16,9 @@ return 'BEGIN%3AVCARD%0D%0AVERSION%3A4.0%0D%0AN%3A%3B'.$format_name.'%3B%3B%3B%0
 }
 ?>
 
-<a href="data:text/vcard;base64;<?php echo raf_create_vcard(); ?>" download="contact.vcf">Download</a>
+<a href="text/x-vcard; charset=utf-8;<?php echo raf_create_vcard(); ?>" download="contact.vcf">Download</a>
+<br>
+<a href='vcard.php' download='test.vcf'>Click to download</a>
 
 </body>
 </html>
