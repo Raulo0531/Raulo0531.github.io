@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Villalba;Alma;;;
+FN:Alma Maria Villalba
+ORG:NGO;
+TITLE:Gerente Post Venta
+TEL;type=CELL;type=VOICE;waid=595974273500:+595 974 273500
+TEL;type=WORK:0 21 288 0000
+TEL;type=WORK;type=FAX:0 21 213 130
+EMAIL;type=INTERNET;type=WORK:alma.villalba@ngosaeca.com.py
+item1.URL:http://www.ngosaeca.com.py
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https://goo.gl/maps/krA98XpiCfJwEnAW7
+item2.X-ABLabel:Ubicación
+END:VCARD
