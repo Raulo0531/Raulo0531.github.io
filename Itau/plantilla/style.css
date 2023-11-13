@@ -53,7 +53,7 @@ div.top {
 	text-decoration: none;
 }
 #userNames {
-	color: #003399;
+	color:#003399;
 	font-size: 2rem;
 	font-weight: 500;
 	line-height: 0;
@@ -91,8 +91,7 @@ div.top {
 	font-family: var(--font);
 	text-align: center;
 	margin-bottom:10px;
-	font-weight: 700;
-
+	font-weight: 550;
 	padding: 9px;
 	text-decoration: none;
 	font-size: 2rem;
@@ -131,7 +130,7 @@ a:active { text-decoration: none; }
 	width: 60px;
 	height: 60px;
 	text-align: center;
-	color: #003399;
+	color:  #003399;
 	margin-bottom: 0px;
 	
 	transition: all 0.15s;
