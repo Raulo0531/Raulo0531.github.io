@@ -86,11 +86,12 @@ div.top {
 
 .link {
 	display: block;
-	background-color: var(--accentColor);
-	color: #000000;
+	background-color: white;
+	color: #396cae;
 	font-family: var(--font);
 	text-align: center;
 	margin-bottom:10px;
+font-weight: 600;
 
 	padding: 9px;
 	text-decoration: none;
